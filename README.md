@@ -4,15 +4,13 @@
 **Przedmiot**: [Aplikacje Sieciowe]
 **Rok akademicki**: 2024/2025
 
-## 🚀 Szybki start
+## Uruchomienie
 
 ```bash
 git clone [adres-repo]
 cd web_p
 python run.py
 ```
-
-Jeden skrypt - działa na Windows, Linux i macOS bez żadnych zmian!
 
 ## Opis projektu
 
